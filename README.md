@@ -30,7 +30,7 @@ Python, Pandas, PyArrow, spaCy, Gradio, Kaggle Notebooks
 - Not every Wikipedia article is present in the dataset
 
 ## AI Tools Used
-Claude / ChatGPT for debugging and code review. All code understood and tested.
+Claude / Deepseek for debugging and code review. All code understood and tested.
 
 ## Team
 Kira36
